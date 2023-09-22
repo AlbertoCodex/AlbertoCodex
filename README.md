@@ -5,7 +5,7 @@
 </a>
 </p>
 <p align ="center">
-<a href="mailto:zenycs3@gmail.com">zenycs3@gmail.com</a> || www.linkedin.com/in/albertocodex
+<a href="mailto:zenycs3@gmail.com">GMAIL</a> || <a href="ww.linkedin.com/in/albertocode">Linkedin</a>
 </p>
 
 
