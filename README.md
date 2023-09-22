@@ -3,8 +3,9 @@
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlbertoCodex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlbertoCodex&layout=compact&exclude_lang=java+r&theme=tokyonight" />
 </a>
+  <a href="mailto:zenycs3@gmail.com">zenycs3@gmail.com</a> || www.linkedin.com/in/albertocodex
 </p>
-📫 How to reach me: zenycs3@gmail.com || www.linkedin.com/in/albertocodex
+
 
 <!--
 **AlbertoCodex/AlbertoCodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
