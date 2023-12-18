@@ -4,10 +4,11 @@
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlbertoCodex&layout=compact&exclude_lang=java+r&theme=tokyonight" />
 </a>
 </p>
+<!--
 <p align ="center">
 <a href="mailto:zenycs3@gmail.com">Gmail</a> || <a href="https://www.linkedin.com/in/albertocodex" target="_blank">Linkedin</a>
 </p>
-
+-->
 
 <!--
 **AlbertoCodex/AlbertoCodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
