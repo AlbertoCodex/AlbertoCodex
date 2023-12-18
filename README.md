@@ -9,7 +9,8 @@ I code development tools for neovim on my free time nowadays
   </p>
 
 </div>
-<!--
+
+
 <p align="center">
 <a href="https://github.com/AlbertoCodex">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlbertoCodex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
