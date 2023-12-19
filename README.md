@@ -2,8 +2,6 @@
 <a href="https://github.com/AlbertoCodex">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlbertoCodex&layout=compact&theme=ayu-mirage&count_private=false" />
 </a>
- <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 </p>
 <!--
 <p align ="center">
