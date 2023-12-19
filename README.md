@@ -1,7 +1,6 @@
 <p align="center">
 <a href="https://github.com/AlbertoCodex">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlbertoCodex&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true" />
-  <img align="center" alt="AlbertoCodex's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlbertoCodex&show_icons=true&count_private=true&&line_height=27&include_all_commits=true&role=owner,collaborator&theme=ayu-mirage"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlbertoCodex&show_icons=true&count_private=true&&line_height=27&include_all_commits=true&role=owner,collaborator&theme=ayu-mirage" />
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlbertoCodex&layout=compact&theme=ayu-mirage&count_private=false" />
 </a>
 </p>
