@@ -2,6 +2,16 @@
 <a href="https://github.com/AlbertoCodex">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlbertoCodex&layout=compact&theme=ayu-mirage&count_private=false" />
 </a>
+  name: Recent activity
+  uses: lowlighter/metrics@latest
+  with:
+    filename: metrics.plugin.activity.svg
+    token: ${{ secrets.METRICS_TOKEN }}
+    base: ""
+    plugin_activity: yes
+    plugin_activity_limit: 5
+    plugin_activity_days: 0
+    plugin_activity_filter: issue, pr, release, fork, review, ref/create
 </p>
 <!--
 <p align ="center">
