@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/AlbertoCodex">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlbertoCodex&show_icons=true&count_private=true&&line_height=27&include_all_commits=true&role=owner,collaborator&theme=ayu-mirage" />
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlbertoCodex&show_icons=true&count_private=true&line_height=27&layout=compact&include_all_commits=true&role=owner,collaborator&theme=ayu-mirage" />
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlbertoCodex&layout=compact&theme=ayu-mirage&count_private=false" />
 </a>
 </p>
