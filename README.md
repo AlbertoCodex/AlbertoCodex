@@ -2,7 +2,7 @@
 <a href="https://github.com/AlbertoCodex">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlbertoCodex&show_icons=true&count_private=true&line_height=27&layout=compact&include_all_commits=true&role=owner,collaborator&theme=ayu-mirage" />
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlbertoCodex&layout=compact&theme=ayu-mirage&count_private=false" />
-  <img align="center" alt="albertocodex's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=albertocodex&show_icons=true&count_private=true&&line_height=27&include_all_commits=true&role=owner,collaborator&theme=ayu-mirage" />
+  <img align="center" alt="albertocodex's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlbertoCodex&show_icons=true&count_private=true&&line_height=27&include_all_commits=true&role=owner,collaborator&theme=ayu-mirage" />
 </a>
 </p>
 <!--
