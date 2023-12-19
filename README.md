@@ -1,5 +1,3 @@
-# H̢̙̠͗̍̿ ͌͏̬̠̜͈ẹ̢̹̺̐ͩ ͯ̈̆͏̜̫̦͔͉͕͇̘ė̱̖̞͖̲̫͔́̍͗͡ ̰̮̲̰̳̬̓͞1͙̤̣̞͓̔̍͢1͇͔̰̼̪ͤͪ͑̚͝ͅ ̈́ͦ́҉̱̟͓̙̬0͔͉̼͉̮̦͙͑̉͊̓͞0̤͇͚̀͞0̰͎̬̤̝͎ͨͩ̊ͨ͞ ̀͏̜̲̩͓a̠͇͂̀ͩͥ͢d̙̙͓̱̒̓̇͟ ̣̝͍̺͈̳͈́͗͡i̸͚͇̝͕͚͛̂ͨͧͅt̪̲͎͔͓̱͖̀͘ ̘̻̙̻͇̟ͮ͗̋̅͟ͅͅp̛͍̫͔͎̰͉̞͑ę̼̼̼̰͇ͥ́̓̏p̛̻͍̰̹̖̤̍ͫ
-
 <p align="center">
 <a href="https://github.com/AlbertoCodex">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlbertoCodex&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true" />
