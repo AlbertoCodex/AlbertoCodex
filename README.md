@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/AlbertoCodex">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlbertoCodex&layout=compact&theme=ayu-mirage&count_private=false" />
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlbertoCodex&layout=compact&theme=ayu-mirage&count_private=true" />
 </a>
 </p>
 <!--
